@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="a3">
+
+        <item>a web server</item>
+        <item>Apache/MIT</item>
+        <item>Laptops</item>
+        <item>T - Mobile G1</item>
+        <item>Simple virtual machine</item>
+        <item>C</item>
+        <item>Android Package Kit</item>
+        <item>Android Page Interface</item>
+        <item>Mobile interpretive compiler (MIC)</item>
+        <item>By using system.exit() method</item>
+
+    </string-array>
+</resources>

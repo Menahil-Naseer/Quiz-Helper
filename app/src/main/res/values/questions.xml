@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ques">
+        <item>What is Android?</item>
+        <item>What is an Adapter in Android?</item>
+        <item>What are the features of Android architecture?</item>
+        <item>What is an activity?</item>
+        <item>What is the use of Bundle in Android?</item>
+        <item>What is manifest?</item>
+        <item>What is portable Wi-Fi hotspot?</item>
+        <item>What is a service in Android?</item>
+        <item>Differentiate Activities from Services?</item>
+        <item>What is AAPT?</item>
+    </string-array>
+
+</resources>

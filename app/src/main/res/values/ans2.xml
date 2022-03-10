@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="a2">
+
+        <item>a web browser</item>
+        <item>Sourceforge</item>
+        <item>Desktops</item>
+        <item>Google gPhone</item>
+        <item>Dalvik virtual machine</item>
+        <item>C++</item>
+        <item>Android Page Kit</item>
+        <item>Android Programming Interface</item>
+        <item>Dex compiler</item>
+        <item>By using the finish() method</item>
+
+    </string-array>
+</resources>

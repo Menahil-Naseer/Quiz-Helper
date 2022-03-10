@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tfques">
+
+        <item>Franklin Roosevelt is one of the presidents depicted on Mount Rushmore.</item>
+        <item>Lightning never strikes the same place twice.</item>
+        <item>Bangalore is the "Silicon Valley of India."</item>
+        <item>Warts can be caused by touching certain animals, especially toads.</item>
+        <item>As a human body grows larger, its number of bones gets smaller.</item>
+        <item>The Red Sea gets its name from a slaughter that occurred there during biblical times.</item>
+        <item>The "dark side of the Moon" is the same as the "far side of the Moon."</item>
+        <item>Coffee originated in Brazil.</item>
+        <item>Labrador retrievers were originally bred to retrieve fishing nets.</item>
+        <item>Ancient Olympic athletes competed nude</item>
+
+    </string-array>
+</resources>

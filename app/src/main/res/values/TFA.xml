@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trf">
+        <item>TRUE</item>
+        <item>TRUE</item>
+        <item>FALSE</item>
+        <item>FALSE</item>
+        <item>TRUE</item>
+        <item>FALSE</item>
+        <item>FALSE</item>
+        <item>TRUE</item>
+        <item>TRUE</item>
+        <item>FALSE</item>
+
+    </string-array>
+</resources>

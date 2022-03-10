@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="mcq1">
+
+        <item>Android is -</item>
+        <item>Under which of the following Android is licensed?</item>
+        <item> For which of the following Android is mainly developed?</item>
+        <item>Which of the following is the first mobile phone released that ran the Android OS?</item>
+        <item>Which of the following virtual machine is used by the Android operating system?</item>
+        <item>Android is based on which of the following language?</item>
+        <item>APK stands for -</item>
+        <item>What does API stand for?</item>
+        <item>Which of the following converts Java byte code into Dalvik byte code?</item>
+        <item>How can we stop the services in android?</item>
+
+    </string-array>
+</resources>

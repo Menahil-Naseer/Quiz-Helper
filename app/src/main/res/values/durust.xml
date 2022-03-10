@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dur">
+
+        <item>an operating system</item>
+        <item>Apache/MIT</item>
+        <item>Mobile devices</item>
+        <item>T - Mobile G1</item>
+        <item>Dalvik virtual machine</item>
+        <item>Java</item>
+        <item>Android Package Kit</item>
+        <item>Application Programming Interface</item>
+        <item>Dex compiler</item>
+        <item>By using the stopSelf() and stopService() method</item>
+
+
+    </string-array>
+</resources>

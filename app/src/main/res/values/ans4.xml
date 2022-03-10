@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="a4">
+
+        <item>None of the above</item>
+        <item>None of the above</item>
+        <item>Mobile devices</item>
+        <item>None of the above</item>
+        <item>None of the above</item>
+        <item>None of the above</item>
+        <item>None of the above</item>
+        <item>Application Page Interface</item>
+        <item>None of the above</item>
+        <item>None of the above</item>
+
+    </string-array>
+</resources>
